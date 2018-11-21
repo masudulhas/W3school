@@ -1,0 +1,29 @@
+body{
+    background: powderblue;
+}
+
+.container
+{
+    
+    display:flex;
+    text-align: center;
+}
+p.uppercase {
+    text-transform: uppercase;
+}
+
+p.lowercase {
+    text-transform: lowercase;
+}
+
+p.capitalize {
+    text-transform: capitalize;
+}
+
+.boxmodel{
+    background-color: lightgrey;
+    width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+}
